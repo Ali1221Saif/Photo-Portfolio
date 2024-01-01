@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596596747198",
+    "project_id": "photo-portfolio-9b7a8",
+    "storage_bucket": "photo-portfolio-9b7a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596596747198:android:597471383a639c258227ef",
+        "android_client_info": {
+          "package_name": "com.example.photoportfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oetPev5poJVs2Q4NjdsL1tBxmUxa0Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
